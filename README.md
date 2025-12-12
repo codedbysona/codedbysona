@@ -6,11 +6,11 @@ Aspiring developer & data enthusiast passionate about **web development**, **Pyt
 ## 🛠 My Skills
 
 ### 💻 Programming & Tools
-- **HTML:** 🌟🌟🌟🌟☆  
-- **CSS:** 🌟🌟🌟🌟☆  
-- **Python:** 🌟🌟🌟🌟☆  
-- **SQL:** 🌟🌟🌟☆☆  
-- **Pandas:** 🌟🌟🌟🌟☆  
+- **HTML:** 🌟🌟🌟🌟 
+- **CSS:** 🌟🌟🌟🌟
+- **Python:** 🌟🌟🌟🌟 
+- **SQL:** 🌟🌟🌟  
+- **Pandas:** 🌟🌟🌟🌟  
 
 ### 🗣 Soft Skills
 - Strong **communication & teamwork** 💬  
@@ -29,7 +29,7 @@ Aspiring developer & data enthusiast passionate about **web development**, **Pyt
 ## 🚀 Projects (In Progress)
 | Project | Description | Status |
 |--------|-------------|--------|
-| Portfolio Website | Personal showcase | 🛠 In Progress |
+
 | Data Analysis Projects | Python & Pandas insights | 🛠 In Progress |
 | SQL Mini Projects | Database practice & queries | 🛠 In Progress |
 
